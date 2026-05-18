@@ -35,7 +35,11 @@
 <h2><i>Lesson 5 : Methods</i></h2>
 <p>Instance methods , static methods</p>
 <h1>Chapter 3</h1>
-<h2><i>Lesson 1 Encapsulation</i></h2>
+<h2><i>Lesson 1 : Constructors</i></h2>
+  <p>
+    Constructors , Illustrations , Overloading , Types , Rules
+  </p>
+<h2><i>Lesson 2 Encapsulation</i></h2>
 <p>
-  Encapsulation , Accessors and Setters
+  Encapsulation , Accessors and Setters , Private Constructors and static methods
 </p>
